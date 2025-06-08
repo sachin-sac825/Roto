@@ -1,0 +1,16 @@
+>>docker pull ubuntu
+
+>> docker run ubuntu
+
+various commands in dockerfile
+>FROM
+>ADD
+>RUN
+>CMD
+>ENTRYPOINT
+>ENV
+
+running the sample
+
+docker run -it -p 81:80-d demo/custom
+
